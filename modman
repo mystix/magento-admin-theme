@@ -1,0 +1,4 @@
+app/code/community/JR/*             app/code/community/JR/
+app/design/adminhtml/default/*      app/design/adminhtml/default/
+app/etc/modules/*                   app/etc/modules/
+skin/adminhtml/default/*            skin/adminhtml/default/
